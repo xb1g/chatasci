@@ -1,0 +1,257 @@
+{
+    "_id": "shopee_product",
+    "startUrl": [
+        "https://shopee.co.th/%F0%9F%91%8D%F0%9F%91%8D%F0%9F%94%A5%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%AD%E0%B8%B9%E0%B8%88%E0%B8%B4-Uji-Matcha-Green-Tea-Qingsakaru-35-g.-%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9B%E0%B8%B8%E0%B8%81-72--i.188762226.21158712365?sp_atk=d0858306-dcee-4655-b345-bfc8808f10c6&xptdk=d0858306-dcee-4655-b345-bfc8808f10c6",
+        "https://shopee.co.th/TRIAL-MATCHA-%E0%B8%9C%E0%B8%87%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0%E0%B8%A2%E0%B8%B2%E0%B9%80%E0%B8%A1%E0%B8%B0-Yame-Cafe-i.209307101.22128275979?sp_atk=4185c178-84f7-4cc5-a9af-c47ce7b7a261&xptdk=4185c178-84f7-4cc5-a9af-c47ce7b7a261",
+        "https://shopee.co.th/Marukyu-Koyamaen-Aoarashi-%E0%B8%9C%E0%B8%87%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%94%E0%B8%9E%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-Ceramonial-Matcha-i.3436313.25832368107?sp_atk=464105ac-2464-4117-899c-1c1a4335a2c0&xptdk=464105ac-2464-4117-899c-1c1a4335a2c0",
+        "https://shopee.co.th/%E0%B8%A1%E0%B8%B5%E0%B9%83%E0%B8%88%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0-%E7%9C%9F%E5%BF%83-%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%9C%E0%B8%87%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B8%A1-%E0%B9%84%E0%B8%A3%E0%B9%88%E0%B8%8A%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%A5-Premium-Matcha-Series-%E0%B8%9C%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-100-%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0%E0%B8%A5%E0%B8%B2%E0%B9%80%E0%B8%95%E0%B9%89-i.241385587.4324069856?sp_atk=79e61356-df8f-40b0-9665-f4c6891a0f19&xptdk=79e61356-df8f-40b0-9665-f4c6891a0f19",
+        "https://shopee.co.th/%E0%B8%84%E0%B8%B2%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%B4%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0-100-%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94-40-%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%A1-(Kawami-Matcha-100-size-40-g.-)-%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7-%E0%B8%8A%E0%B8%B2%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-%E0%B8%9C%E0%B8%87%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0-%E0%B8%9C%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0-%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5-i.690832880.14155079452?sp_atk=1b5f2750-d70e-48eb-9aa9-cc38740a19e3&xptdk=1b5f2750-d70e-48eb-9aa9-cc38740a19e3",
+        "https://shopee.co.th/%E0%B8%9C%E0%B8%87%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B8%A1-UJI-MATCHA-SHUITSU-Ceremonial-Grade-Japanese-Matcha-Powder-%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94-50-%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%A1-i.27997912.25777864053?sp_atk=e32b7741-86f2-4036-a57c-35c76547709f&xptdk=e32b7741-86f2-4036-a57c-35c76547709f",
+        "https://shopee.co.th/Marukyu-koyamaen-Matcha-culinary-grade-%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%94%E0%B8%8A%E0%B8%87%E0%B8%99%E0%B8%A1%E0%B9%80%E0%B9%80%E0%B8%A5%E0%B8%B0%E0%B8%97%E0%B8%B3%E0%B8%82%E0%B8%99%E0%B8%A1-i.88078566.18591210647?sp_atk=db338908-6a47-4fb5-8f15-243c76403d08&xptdk=db338908-6a47-4fb5-8f15-243c76403d08",
+        "https://shopee.co.th/Chado-Matcha-%E0%B8%A1%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B8%B0%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-100-%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%97%E0%B9%89-%E0%B8%A1%E0%B8%B2%E0%B8%84%E0%B8%A3%E0%B8%9A-%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%99-%E0%B8%88%E0%B8%99%E0%B8%96%E0%B8%B6%E0%B8%87-%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B9%83%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%8A%E0%B8%87%E0%B8%8A%E0%B8%B2-Ceremonial-i.384918876.7391508058?sp_atk=5884048b-8f77-4f63-b729-c59ba2d419d0&xptdk=5884048b-8f77-4f63-b729-c59ba2d419d0",
+        "https://shopee.co.th/%E0%B8%9C%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7-%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0-Matcha-Powder-100-%E2%9D%A3%EF%B8%8F%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%81%E2%9D%A3%EF%B8%8F%E0%B9%81%E0%B8%9A%E0%B8%A3%E0%B8%99%E0%B8%94%E0%B9%8C%E0%B9%84%E0%B8%A3%E0%B9%88%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94-100-%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%A1-%E2%9D%A3%EF%B8%8F%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B8%A2%E0%B8%94%E0%B8%B5%E2%9D%A3%EF%B8%8F-i.525524504.27801676729?sp_atk=cace351f-95d5-47b8-a99f-5072c61a1361&xptdk=cace351f-95d5-47b8-a99f-5072c61a1361",
+        "https://shopee.co.th/%E0%B9%81%E0%B8%97%E0%B9%89-%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%9F%E0%B8%A3%E0%B8%B5%F0%9F%92%A5%E0%B8%9C%E0%B8%87%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0-100-%F0%9F%8D%83%E0%B8%AD%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%81%E0%B8%99%E0%B8%B4%E0%B8%84-%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B8%B4%E0%B9%82%E0%B8%95%E0%B8%B0%F0%9F%92%A5Organic-Matcha-Powder-%E0%B8%9C%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%A2-%E0%B8%9A%E0%B8%B3%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%A1%E0%B8%94%E0%B8%B8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B3%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%86-i.565492522.23664898630?sp_atk=2fa1d6f7-aa1f-4596-9aea-43951132e5dd&xptdk=2fa1d6f7-aa1f-4596-9aea-43951132e5dd",
+        "https://shopee.co.th/M2.%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%A5-%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%94%E0%B8%9E%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%8A%E0%B8%87%E0%B8%8A%E0%B8%B2-%E0%B8%8A%E0%B8%99%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%A7%E0%B8%94-%E0%B8%A2%E0%B8%B2%E0%B9%80%E0%B8%A1%E0%B8%B0%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0-%E0%B8%9F%E0%B8%B8%E0%B8%81%E0%B8%B8%E0%B9%82%E0%B8%AD%E0%B8%81%E0%B8%B0-Award-Winning-Matcha-Yame-Fukuoka-Kyushu-%E0%B8%A1%E0%B8%B1%E0%B8%95%E0%B8%89%E0%B8%B0-Teasana-i.287756344.9651815265?sp_atk=dded0c6a-54fe-49d2-bb43-fd447f8824f8&xptdk=dded0c6a-54fe-49d2-bb43-fd447f8824f8",
+        "https://shopee.co.th/-%E0%B9%81%E0%B8%9E%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%B5-%E0%B8%9C%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0%E0%B8%8A%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%9C%E0%B8%87%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94-100-%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94-50-%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%A1%E0%B9%81%E0%B8%97%E0%B9%89!-Gold-i.7735725.10401836293?sp_atk=c5916a96-8237-4805-a3cf-ffdff561c1fd&xptdk=c5916a96-8237-4805-a3cf-ffdff561c1fd",
+        "https://shopee.co.th/MATCHAZUKI-%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0%E0%B8%A5%E0%B8%B2%E0%B9%80%E0%B8%95%E0%B9%89-3in1-%E0%B8%AB%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2-%E0%B8%AD%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%8A%E0%B8%87%E0%B8%AA%E0%B8%94-Matcha-Latte-Premier-Blend-i.69402048.10910668606?sp_atk=8444759c-122d-441e-b146-b9066e69e642&xptdk=8444759c-122d-441e-b146-b9066e69e642",
+        "https://shopee.co.th/%E0%B8%9C%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0-%E0%B9%81%E0%B8%97%E0%B9%89-100-%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B8%A1-%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94-100-%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%A1-(-Matcha-green-tea-powder-)-i.654698850.21996301123?sp_atk=221c2a0c-6cb4-44b0-8aa8-6269723cd6b5&xptdk=221c2a0c-6cb4-44b0-8aa8-6269723cd6b5",
+        "https://shopee.co.th/MatchaKai-%E0%B8%9C%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%A1%E0%B8%82%E0%B9%89%E0%B8%99%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-Matcha-%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99-M1-%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94-100-g-i.69402048.1567142716?sp_atk=cf05e1ac-f69b-471e-b31e-3e410d40a4a5&xptdk=cf05e1ac-f69b-471e-b31e-3e410d40a4a5",
+        "https://shopee.co.th/MATCHAZUKI-Rich-%E0%B8%9C%E0%B8%87%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0%E0%B8%9E%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%B0%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%84%E0%B8%B2%E0%B9%80%E0%B8%9F%E0%B9%88%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B9%80%E0%B8%81%E0%B8%AD%E0%B8%A3%E0%B8%B5%E0%B9%88-i.69402048.12851090936?sp_atk=89acab37-b59b-4140-b478-1a4351f91172&xptdk=89acab37-b59b-4140-b478-1a4351f91172",
+        "https://shopee.co.th/MATCHAZUKI-%E0%B8%9C%E0%B8%87%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%9E%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B8%A1-%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%94-Imperial-Uji-Kyoto-%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%94%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%B8%E0%B8%94-(30g)-i.69402048.2583260751?sp_atk=62ff3ba9-11ab-4589-986e-658bef28c16e&xptdk=62ff3ba9-11ab-4589-986e-658bef28c16e",
+        "https://shopee.co.th/%E0%B8%9C%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0-100-%E0%B8%AA%E0%B8%B9%E0%B8%95%E0%B8%A3%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%84-100-%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%A1-(Classic-Matcha-Green-Tea)-i.27997912.4634854394?sp_atk=802024cd-4084-4965-8a33-57511371a13b&xptdk=802024cd-4084-4965-8a33-57511371a13b",
+        "https://shopee.co.th/YOI-%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0-%E0%B8%9C%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7-100-%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B8%8A%E0%B8%B2%E0%B9%82%E0%B8%94%E0%B8%B0-100-%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%A1-i.74694522.1579846950?sp_atk=ef845438-897c-48e7-b4fe-34d783d5cf2a&xptdk=ef845438-897c-48e7-b4fe-34d783d5cf2a",
+        "https://shopee.co.th/%E0%B8%84%E0%B8%B2%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%B4%E0%B8%AD%E0%B8%B9%E0%B8%88%E0%B8%B4%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0-100-%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94-100-%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%A1-(-KAWAMI-UJI-Matcha-100-size-100-g.)%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7-%E0%B8%8A%E0%B8%B2%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-%E0%B8%9C%E0%B8%87%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0-%E0%B8%9C%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0-i.690832880.13378183799?sp_atk=d9e8e1a0-b858-4454-8e60-d96215326688&xptdk=d9e8e1a0-b858-4454-8e60-d96215326688",
+        "https://shopee.co.th/-%E0%B9%81%E0%B8%9E%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%B5-%E0%B8%9C%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0-100-Intense-%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%A1%E0%B8%82%E0%B9%89%E0%B8%99-50-%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%A1-i.7735725.4792495463?sp_atk=e1acd200-d22b-4299-a90b-a9c255820c10&xptdk=e1acd200-d22b-4299-a90b-a9c255820c10",
+        "https://shopee.co.th/Llamito-%E0%B8%9C%E0%B8%87%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0-%E0%B8%AD%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%81%E0%B8%99%E0%B8%B4%E0%B8%84-(-Matcha-Powder)-%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94-250g-i.18117499.10946816382?sp_atk=b9c58bc6-b454-4d1a-9d6f-ea53edf35276&xptdk=b9c58bc6-b454-4d1a-9d6f-ea53edf35276",
+        "https://shopee.co.th/MATCHAZUKI-%E0%B8%9C%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0%E0%B8%9E%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%94-MEDIUM-%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94-100g-i.69402048.1159711684?sp_atk=50014f72-2231-4fd7-9332-179c36b585cc&xptdk=50014f72-2231-4fd7-9332-179c36b585cc",
+        "https://shopee.co.th/MATCHAZUKI-%E0%B8%9C%E0%B8%87%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0%E0%B8%8A%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B8%94%E0%B8%A5%E0%B8%AD%E0%B8%87-%E0%B8%A3%E0%B8%A7%E0%B8%A1-5-%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%94%E0%B9%83%E0%B8%99%E0%B9%80%E0%B8%8B%E0%B9%87%E0%B8%95%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7-Matcha-New-Sample-Set-i.69402048.13452282433?sp_atk=e061251c-0aa1-45b9-a2fb-1e1074587098&xptdk=e061251c-0aa1-45b9-a2fb-1e1074587098",
+        "https://shopee.co.th/%E0%B8%84%E0%B8%B2%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%B4%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0-100-%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94-40-%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%A1-Kawami-Matcha-Powder-100-size-40-g.-i.77729399.11484090365?sp_atk=a6e63525-0a30-45bc-82e7-8edb620d8798&xptdk=a6e63525-0a30-45bc-82e7-8edb620d8798",
+        "https://shopee.co.th/%E0%B8%9C%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0-100-%E0%B8%AA%E0%B8%B9%E0%B8%95%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B8%A1-100-%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%A1-(Matcha-Greentea-Powder-100-)-i.27997912.2451796542?sp_atk=4d22b25e-cc10-4aaf-b0d7-05beb8b01878&xptdk=4d22b25e-cc10-4aaf-b0d7-05beb8b01878",
+        "https://shopee.co.th/%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-!-MATCHAZUKI-%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%A1%E0%B8%B0%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%A7-2in1-%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%8A%E0%B8%87-Coconut-Matcha-i.69402048.28108733643?sp_atk=3e5813de-c18f-4403-8c84-bfc766847e88&xptdk=3e5813de-c18f-4403-8c84-bfc766847e88",
+        "https://shopee.co.th/MATCHAZUKI-%E0%B8%9C%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0%E0%B8%9E%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%94-Excellent-%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94-40g-i.69402048.1159711686?sp_atk=8049c2eb-5d64-4e53-bd62-970184d812a1&xptdk=8049c2eb-5d64-4e53-bd62-970184d812a1",
+        "https://shopee.co.th/Peace-%E5%92%8C-%E0%B8%9C%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7-100-%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%9C%E0%B8%AA%E0%B8%A1%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%95%E0%B8%B2%E0%B8%A5%E0%B8%AB%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%A1%E0%B8%9C%E0%B8%87-(%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0-%E0%B9%82%E0%B8%AE%E0%B8%88%E0%B8%B4%E0%B8%89%E0%B8%B0-%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%99%E0%B9%84%E0%B8%A1%E0%B8%89%E0%B8%B0)-100-Ground-Tea-Series-i.88078566.4315663075?sp_atk=434d5f57-8525-41be-bb69-66814220c862&xptdk=434d5f57-8525-41be-bb69-66814220c862",
+        "https://shopee.co.th/MATCHAZUKI-%E0%B8%8A%E0%B8%B8%E0%B8%94%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%8A%E0%B8%87%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A2-%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%9C%E0%B8%87%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0%E0%B8%8A%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B8%94%E0%B8%A5%E0%B8%AD%E0%B8%87-Mini-Matcha-Set-i.69402048.14201548032?sp_atk=a0bc6072-c5e2-4746-8af4-d70ae184ac6c&xptdk=a0bc6072-c5e2-4746-8af4-d70ae184ac6c",
+        "https://shopee.co.th/Aki-%E0%B8%9C%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0-%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B8%A1-Premium-Latte-Grade-Koyo-Tearoom-i.58499722.21883105649?sp_atk=39aaf70e-1ffd-4f91-96ab-f3d9c40770a3&xptdk=39aaf70e-1ffd-4f91-96ab-f3d9c40770a3",
+        "https://shopee.co.th/Peace-%E5%92%8C-%E0%B8%9C%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7-2in1-%E0%B9%80%E0%B8%8A%E0%B8%84%E0%B8%8A%E0%B8%87%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A2-%E0%B8%AB%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2-(%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0-%E0%B9%82%E0%B8%AE%E0%B8%88%E0%B8%B4%E0%B8%89%E0%B8%B0-%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%99%E0%B9%84%E0%B8%A1%E0%B8%89%E0%B8%B0-)-Effortless-Series-i.88078566.7115672092?sp_atk=b4b33eb2-01d7-4736-825d-6048a9d4dbd7&xptdk=b4b33eb2-01d7-4736-825d-6048a9d4dbd7",
+        "https://shopee.co.th/MATCHAZUKI-%E0%B8%9C%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0%E0%B8%9E%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%94-Excellent-%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94-100g-i.69402048.1159711687?sp_atk=b622b7db-ebf6-409a-bd2c-9556800d5a48&xptdk=b622b7db-ebf6-409a-bd2c-9556800d5a48",
+        "https://shopee.co.th/%E0%B8%9C%E0%B8%87%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B8%A1-NOKO-Ceremonial-Grade-Japanese-Matcha-Powder-%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94-50-%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%A1-i.27997912.19589264757?sp_atk=cbcee260-be51-45b9-997b-a18b5c447597&xptdk=cbcee260-be51-45b9-997b-a18b5c447597",
+        "https://shopee.co.th/%E0%B8%9C%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7-%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0-100-%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94-50-%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%A1-%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99!!-%E0%B8%84%E0%B8%B5%E0%B9%82%E0%B8%95-%E0%B8%97%E0%B8%B2%E0%B8%99%E0%B9%84%E0%B8%94%E0%B9%89-i.7735725.5993371706?sp_atk=051507c3-fce8-49af-b810-1975ebada08c&xptdk=051507c3-fce8-49af-b810-1975ebada08c",
+        "https://shopee.co.th/MATCHAZUKI-%E0%B8%9C%E0%B8%87%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B8%A1-Japanese-Matcha-%E0%B8%9A%E0%B8%94%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B9%83%E0%B8%9A%E0%B8%8A%E0%B8%B2%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%97%E0%B9%89100--i.69402048.9015667842?sp_atk=b6393100-6a07-4c6d-a4e7-d2723c108dcb&xptdk=b6393100-6a07-4c6d-a4e7-d2723c108dcb",
+        "https://shopee.co.th/-St.Coco-Cafe-%E0%B9%81%E0%B8%9B%E0%B8%A3%E0%B8%87%E0%B8%8A%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%A3%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%99-%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%A2%E0%B8%8A%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0(Matcha-Whisk-Chasen)-%E0%B8%AD%E0%B8%B8%E0%B8%9B%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%8A%E0%B8%87%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-i.1118972926.21395574695?sp_atk=b7a49dd6-482c-4e00-8eae-1076ddf72d49&xptdk=b7a49dd6-482c-4e00-8eae-1076ddf72d49",
+        "https://shopee.co.th/%E0%B8%9C%E0%B8%87%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B8%A1-KIWAMI-Ceremonial-Grade-Japanese-Matcha-Powder-%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94-50-%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%A1-i.27997912.19180311042?sp_atk=82c4ff57-a7d3-475f-ba6a-44bdfa13cc48&xptdk=82c4ff57-a7d3-475f-ba6a-44bdfa13cc48",
+        "https://shopee.co.th/Kagayaki-Ceremonial-grade-i.959433530.26157235870?sp_atk=0141eb8f-3e38-4866-b5a0-5a9685382713&xptdk=0141eb8f-3e38-4866-b5a0-5a9685382713",
+        "https://shopee.co.th/%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%9E%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1-PREMIUM-GREEN-TEA(%E0%B8%AA%E0%B8%B9%E0%B8%95%E0%B8%A3%E0%B8%AB%E0%B8%AD%E0%B8%A1%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%A5%E0%B8%B0%E0%B8%A1%E0%B8%B8%E0%B8%99)(%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B8%A1%E0%B8%B0%E0%B8%A5%E0%B8%B4)-i.210876905.4911925618?sp_atk=c7248ed0-6c94-4dda-9522-87e33ae0f285&xptdk=c7248ed0-6c94-4dda-9522-87e33ae0f285",
+        "https://shopee.co.th/Nishio-matcha-Ceremonial-grade-1.0-i.959433530.26956312107?sp_atk=37547b25-1e8d-419c-b747-a7726c307ac6&xptdk=37547b25-1e8d-419c-b747-a7726c307ac6",
+        "https://shopee.co.th/Peace-%E5%92%8C-%E0%B8%9C%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7-3in1-(-%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0-%E0%B9%82%E0%B8%AE%E0%B8%88%E0%B8%B4%E0%B8%89%E0%B8%B0-%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%99%E0%B9%84%E0%B8%A1%E0%B8%89%E0%B8%B0-)-Effortless-Pastel-Series-i.88078566.21818850923?sp_atk=ee54b1b7-a22a-4a3a-a477-268a468fc174&xptdk=ee54b1b7-a22a-4a3a-a477-268a468fc174",
+        "https://shopee.co.th/%E0%B8%89%E0%B8%B8%E0%B8%A2%E0%B8%9F%E0%B8%87-%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%9C%E0%B8%87-%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94-100-%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%A1-i.129856161.2043217778?sp_atk=c6407d56-f125-4636-afc5-6b50dfde88d8&xptdk=c6407d56-f125-4636-afc5-6b50dfde88d8",
+        "https://shopee.co.th/%E0%B8%9C%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%94%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B9%83%E0%B8%99%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%9E%E0%B8%B4%E0%B8%98%E0%B8%B5-100-%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%AD%E0%B8%B8%E0%B8%88%E0%B8%B4-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-(100-Ceremonial-Uji-Matcha-Green-Tea-from-Japan)-i.378879089.7078289231?sp_atk=5be1981e-e6da-40b4-858f-25099cf7de43&xptdk=5be1981e-e6da-40b4-858f-25099cf7de43",
+        "https://shopee.co.th/%F0%9F%94%A5%E2%9D%A4%EF%B8%8F-Matcha%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0-%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%8A%E0%B8%87-%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%9C%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B8%A1-100-500-%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%A1(K39)-i.546043364.23825953871?sp_atk=1b073479-3b58-419a-9525-4bdc6c8542c0&xptdk=1b073479-3b58-419a-9525-4bdc6c8542c0",
+        "https://shopee.co.th/%E0%B8%84%E0%B8%B2%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%B4%E0%B8%AD%E0%B8%B9%E0%B8%88%E0%B8%B4%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0%E0%B8%9E%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1-100-%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94100%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%A1-(Kawami-100-Premium-Uji-Matcha-Powder-size-100g.)-i.690832880.17207957220?sp_atk=8be118fd-6532-4796-ad15-970029db76bd&xptdk=8be118fd-6532-4796-ad15-970029db76bd",
+        "https://shopee.co.th/Hayate-matcha-Cafe-grade-i.959433530.20291625557?sp_atk=b25607c5-be4a-408b-a66e-7ad041fdd7a8&xptdk=b25607c5-be4a-408b-a66e-7ad041fdd7a8",
+        "https://shopee.co.th/-%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%94-Premium-Matcha-Premium-5-%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87-%E0%B9%80%E0%B9%80%E0%B8%9A%E0%B8%A3%E0%B8%99%E0%B8%94%E0%B9%8C-Okucha-Matcha-i.1315242739.26506103537?sp_atk=bb3b90b8-af9b-48a5-946f-795412c1e219&xptdk=bb3b90b8-af9b-48a5-946f-795412c1e219",
+        "https://shopee.co.th/SUGU-%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0-%E0%B8%9C%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7-100-%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B8%8A%E0%B8%B2%E0%B9%82%E0%B8%94%E0%B8%B0-%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%A7-%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%8C-%E0%B8%9E%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B8%A1-100-%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%A1-i.74694522.1245518972?sp_atk=c1f7a2ec-4edc-4a43-8001-b49f6416665c&xptdk=c1f7a2ec-4edc-4a43-8001-b49f6416665c",
+        "https://shopee.co.th/M4-M5.-%E0%B8%AD%E0%B8%B8%E0%B8%88%E0%B8%B4%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0-%E0%B8%8A%E0%B8%B4%E0%B8%8B%E0%B8%B8%E0%B9%82%E0%B8%AD%E0%B8%81%E0%B8%B0%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0-%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%94%E0%B8%9E%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%8A%E0%B8%87%E0%B8%8A%E0%B8%B2-%E0%B8%AD%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%81%E0%B8%99%E0%B8%B4%E0%B8%84-Teasana-OG-%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%94%E0%B8%B5%E0%B8%A5%E0%B8%95%E0%B8%A3%E0%B8%87%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B9%84%E0%B8%A3%E0%B9%88%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%A3%E0%B8%81-Uji-matcha-Ceremonial-organic-i.287756344.6143268329?sp_atk=ad75d4b7-52a4-4d81-9d2a-0ea2d05e6000&xptdk=ad75d4b7-52a4-4d81-9d2a-0ea2d05e6000",
+        "https://shopee.co.th/%E0%B8%84%E0%B8%B2%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%B4-%E0%B8%9E%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B8%AD%E0%B8%B9%E0%B8%88%E0%B8%B4%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0-100-%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94-100-%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%A1-(Kawami-Premium-Uji-Matcha-Powder-100-size-100-g.)-i.77729399.12208605401?sp_atk=3078ecf1-36b9-41bc-974d-376209021cbe&xptdk=3078ecf1-36b9-41bc-974d-376209021cbe",
+        "https://shopee.co.th/%E0%B8%9C%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0-100-%E0%B8%9E%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1-100g.-(Matcha-Greentea-Powder)-%E0%B8%AB%E0%B8%A2%E0%B8%81%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C-i.180194493.17088402302?sp_atk=c59813a0-e861-459a-a4bd-d294730d4e67&xptdk=c59813a0-e861-459a-a4bd-d294730d4e67",
+        "https://shopee.co.th/250g%F0%9F%92%A5%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B9%84%E0%B8%A7%F0%9F%92%A5%E0%B8%9C%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0-100-%E0%B8%AD%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%81%E0%B8%81%E0%B8%99%E0%B8%B4%E0%B8%84-%E0%B8%95%E0%B8%A3%E0%B8%B2-%E0%B8%A2%E0%B8%B2%E0%B8%A1%E0%B8%B4%E0%B9%82%E0%B8%95%E0%B8%B0-Organic-Matcha-Powder-%E0%B8%9C%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%A2-%E0%B8%9A%E0%B8%B3%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%A1%E0%B8%94%E0%B8%B8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B3%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A-i.1080795754.28662601367?sp_atk=1c928ab6-9f9a-41f9-85cc-c34b4003d92a&xptdk=1c928ab6-9f9a-41f9-85cc-c34b4003d92a",
+        "https://shopee.co.th/YURI-Matcha-Matcha-%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0-80G-i.393855899.4680232792?sp_atk=959e2adc-d213-46e8-8e0c-adeec77b99e4&xptdk=959e2adc-d213-46e8-8e0c-adeec77b99e4",
+        "https://shopee.co.th/((%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B8%87%E0%B8%99%E0%B8%B4%E0%B8%A2%E0%B8%A1%E0%B9%83%E0%B8%8A%E0%B9%89))-UJI-MATCHA-Midorigi-Wakatake-%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%AD%E0%B8%B9%E0%B8%88%E0%B8%B4%E0%B9%81%E0%B8%9E%E0%B8%84-100-g-i.133197405.8015225384?sp_atk=1ba5aef0-e5c5-4fb9-b6e4-1704f3a5d0b8&xptdk=1ba5aef0-e5c5-4fb9-b6e4-1704f3a5d0b8",
+        "https://shopee.co.th/MATCHAZUKI-%E0%B8%9C%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0%E0%B8%9E%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%A1%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99-%E0%B9%80%E0%B8%81%E0%B8%A3%E0%B8%94-MEDIUM-%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94-40g-i.69402048.1159711681?sp_atk=82207212-0ec6-4fd8-a462-9bfe066291e3&xptdk=82207212-0ec6-4fd8-a462-9bfe066291e3",
+        "https://shopee.co.th/%F0%9F%93%A3%F0%9F%94%A5%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0-100-%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%A1-%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0%E0%B9%81%E0%B8%97%E0%B9%89-100-%E0%B8%9C%E0%B8%87%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0-Matcha-39--i.384249288.11403918975?sp_atk=b7537d24-7ee5-476d-bef3-dc2e452ed9ce&xptdk=b7537d24-7ee5-476d-bef3-dc2e452ed9ce",
+        "https://shopee.co.th/%E0%B8%84%E0%B8%B2%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%B4-%E0%B8%AD%E0%B8%B9%E0%B8%88%E0%B8%B4%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0-%E0%B8%8A%E0%B8%99%E0%B8%B4%E0%B8%94%E0%B8%9C%E0%B8%87-100-%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94-100-%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%A1-UJI-MATCHA-KAWAMI-i.468122216.24555496429?sp_atk=3f94fdeb-07b4-4e38-88df-caa5f193d49f&xptdk=3f94fdeb-07b4-4e38-88df-caa5f193d49f",
+        "https://shopee.co.th/-%E0%B9%81%E0%B8%9E%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%B5-%E0%B8%9C%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%A1%E0%B8%B1%E0%B8%97%E0%B8%89%E0%B8%B0-100-Intense-%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%A1%E0%B8%82%E0%B9%89%E0%B8%99-500-%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%A1-i.7735725.22120873595?sp_atk=e206879f-2833-4b79-a372-ce58bfda8809&xptdk=e206879f-2833-4b79-a372-ce58bfda8809"
+    ],
+    "selectors": [
+        {
+            "id": "product_name",
+            "multiple": false,
+            "parentSelectors": ["_root"],
+            "regex": "",
+            "selector": ".WBVL_7 span",
+            "type": "SelectorText"
+        },
+        {
+            "delay": 700,
+            "elementLimit": 500,
+            "id": "detail",
+            "multiple": true,
+            "parentSelectors": ["_root"],
+            "selector": "div.page-product",
+            "type": "SelectorElementScroll"
+        },
+        {
+            "clickActionType": "real",
+            "clickElementSelector": "button.SkhBL1",
+            "clickElementUniquenessType": "uniqueText",
+            "clickType": "clickOnce",
+            "delay": 700,
+            "discardInitialElements": "discard-when-click-element-exists",
+            "id": "options",
+            "multiple": true,
+            "parentSelectors": ["_root"],
+            "selector": "div.flex-auto",
+            "type": "SelectorElementClick"
+        },
+        {
+            "id": "price_range",
+            "multiple": false,
+            "parentSelectors": ["_root"],
+            "regex": "",
+            "selector": "div.IZPeQz",
+            "type": "SelectorText"
+        },
+        {
+            "id": "ratings",
+            "multiple": false,
+            "parentSelectors": ["_root"],
+            "regex": "",
+            "selector": "button:nth-of-type(2) div.F9RHbS",
+            "type": "SelectorText"
+        },
+        {
+            "id": "sold",
+            "multiple": false,
+            "parentSelectors": ["_root"],
+            "regex": "",
+            "selector": "div.AcmPRb",
+            "type": "SelectorText"
+        },
+        {
+            "id": "favorite",
+            "multiple": false,
+            "parentSelectors": ["_root"],
+            "regex": "",
+            "selector": ".w2JMKY div",
+            "type": "SelectorText"
+        },
+        {
+            "clickActionType": "real",
+            "clickElementSelector": "section:nth-of-type(2) button",
+            "clickElementUniquenessType": "uniqueText",
+            "clickType": "clickOnce",
+            "delay": 600,
+            "discardInitialElements": "discard-when-click-element-exists",
+            "id": "options_sizes",
+            "multiple": true,
+            "parentSelectors": ["options"],
+            "selector": "_parent_",
+            "type": "SelectorElementClick"
+        },
+        {
+            "id": "shop",
+            "multiple": false,
+            "parentSelectors": ["_root"],
+            "selector": "div.r74CsV",
+            "type": "SelectorElement"
+        },
+        {
+            "id": "shop_name",
+            "multiple": false,
+            "parentSelectors": ["shop"],
+            "regex": "",
+            "selector": "div.fV3TIn",
+            "type": "SelectorText"
+        },
+        {
+            "id": "points",
+            "multiple": false,
+            "parentSelectors": ["shop"],
+            "regex": "",
+            "selector": "div:nth-of-type(1) span.Cs6w3G",
+            "type": "SelectorText"
+        },
+        {
+            "id": "product_count",
+            "multiple": false,
+            "parentSelectors": ["shop"],
+            "regex": "",
+            "selector": ".aArpoe span",
+            "type": "SelectorText"
+        },
+        {
+            "id": "reply_rates",
+            "multiple": false,
+            "parentSelectors": ["shop"],
+            "regex": "",
+            "selector": "div.YnZi6x:nth-of-type(2) span",
+            "type": "SelectorText"
+        },
+        {
+            "id": "age",
+            "multiple": false,
+            "parentSelectors": ["shop"],
+            "regex": "",
+            "selector": "div:nth-of-type(3) span.Cs6w3G",
+            "type": "SelectorText"
+        },
+        {
+            "id": "followers",
+            "multiple": false,
+            "parentSelectors": ["shop"],
+            "regex": "",
+            "selector": "div:nth-of-type(5) span",
+            "type": "SelectorText"
+        },
+        {
+            "id": "reply_speed",
+            "multiple": false,
+            "parentSelectors": ["shop"],
+            "regex": "",
+            "selector": "div:nth-of-type(4) span",
+            "type": "SelectorText"
+        },
+        {
+            "id": "specific_data",
+            "multiple": false,
+            "parentSelectors": ["_root"],
+            "regex": "",
+            "selector": "section:nth-of-type(1) div.Gf4Ro0",
+            "type": "SelectorText"
+        },
+        {
+            "id": "description",
+            "multiple": false,
+            "parentSelectors": ["detail"],
+            "regex": "",
+            "selector": "section.I_DV_3:nth-of-type(2)",
+            "type": "SelectorText"
+        },
+        {
+            "id": "reviews",
+            "multiple": false,
+            "parentSelectors": ["detail"],
+            "regex": "",
+            "selector": "div.product-rating-overview__filters",
+            "type": "SelectorText"
+        },
+        {
+            "id": "price",
+            "multiple": false,
+            "parentSelectors": ["options_sizes"],
+            "regex": "",
+            "selector": "div.IZPeQz",
+            "type": "SelectorText"
+        },
+        {
+            "extractAttribute": "",
+            "id": "option",
+            "parentSelectors": ["options_sizes"],
+            "selector": "button.selection-box-selected",
+            "type": "SelectorGroup"
+        },
+        {
+            "extractAttribute": "",
+            "id": "review_text",
+            "parentSelectors": ["detail"],
+            "selector": "div[data-darkreader-inline-color]:nth-of-type(n+3) div:nth-of-type(3), div[data-darkreader-inline-color]:nth-of-type(4)",
+            "type": "SelectorGroup"
+        },
+        {
+            "extractAttribute": "srcset",
+            "id": "imgs",
+            "parentSelectors": ["_root"],
+            "selector": "source.xh1MNn",
+            "type": "SelectorGroup"
+        }
+    ]
+}
